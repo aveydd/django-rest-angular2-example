@@ -7,7 +7,7 @@ Django REST framework.
 
 Install dependencies and run migrations to set up the app:
 
-- Create a virtualenv
+- Create a virtual environment
 - Run `./build-app.sh`
 
 _Note: if you are unsure of how to build a virtualenv, uncomment the lines
